@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Pierre-Louis/Documents/Unreal Projects/OnRevolutionneL-industrie/Content/PL/NG_fire.uasset",
+				"C:/Users/Pierre-Louis/Documents/Unreal Projects/OnRevolutionneL-industrie/Content/PL/NS_Fire.uasset",
+				"C:/Users/Pierre-Louis/Documents/Unreal Projects/OnRevolutionneL-industrie/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset",
+				"C:/Users/Pierre-Louis/Documents/Unreal Projects/OnRevolutionneL-industrie/Content/PL/NewFolder/NG_fire.uasset",
+				"C:/Users/Pierre-Louis/Documents/Unreal Projects/OnRevolutionneL-industrie/Content/PL/NewFolder/NS_Fire.uasset",
+				"C:/Users/Pierre-Louis/Documents/Unreal Projects/OnRevolutionneL-industrie/Content/PL/Niagara/NG_fire.uasset",
+				"C:/Users/Pierre-Louis/Documents/Unreal Projects/OnRevolutionneL-industrie/Content/PL/Niagara/NS_Fire.uasset",
+				"C:/Users/Pierre-Louis/Documents/Unreal Projects/OnRevolutionneL-industrie/Content/PL/Niagara/NG_particles.uasset",
+				"C:/Users/Pierre-Louis/Documents/Unreal Projects/OnRevolutionneL-industrie/Content/PL/Niagara/NG_holyring.uasset",
+				"C:/Users/Pierre-Louis/Documents/Unreal Projects/OnRevolutionneL-industrie/Content/PL/Niagara/M_LightningRibbon.uasset",
+				"C:/Users/Pierre-Louis/Documents/Unreal Projects/OnRevolutionneL-industrie/Content/PL/Niagara/NS_Lightning.uasset",
+				"C:/Users/Pierre-Louis/Documents/Unreal Projects/OnRevolutionneL-industrie/Content/PL/Niagara/NS_HolyRing.uasset",
 				"C:/Users/Lucas/Documents/Unreal Projects/IndustrieenPLS/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
 			]
 		}
