@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Oreac/Documents/Unreal Projects/Brassart_UE5/OnRevolutionneL-industrie/OnRevolutionneL-industrie/Content/Dossier-de-Moi/BluePrint/BP_FPS-Player.uasset",
+				"C:/Users/Oreac/Documents/Unreal Projects/Brassart_UE5/OnRevolutionneL-industrie/OnRevolutionneL-industrie/Content/Dossier-de-Moi/Level_Work.umap",
+				"C:/Users/Oreac/Documents/Unreal Projects/Brassart_UE5/OnRevolutionneL-industrie/OnRevolutionneL-industrie/Content/Dossier-de-Moi/Input/IMC_FPS-Player.uasset",
+				"C:/Users/Oreac/Documents/Unreal Projects/Brassart_UE5/OnRevolutionneL-industrie/OnRevolutionneL-industrie/Content/Dossier-de-Moi/Input/IA_Forward-Backward.uasset",
+				"C:/Users/Oreac/Documents/Unreal Projects/Brassart_UE5/OnRevolutionneL-industrie/OnRevolutionneL-industrie/Content/Dossier-de-Moi/Input/IA_Right-Left.uasset",
+				"C:/Users/Oreac/Documents/Unreal Projects/Brassart_UE5/OnRevolutionneL-industrie/OnRevolutionneL-industrie/Content/Dossier-de-Moi/BluePrint/BP_MyGameMode.uasset",
+				"C:/Users/Oreac/Documents/Unreal Projects/Brassart_UE5/OnRevolutionneL-industrie/OnRevolutionneL-industrie/Content/Dossier-de-Moi/Input/IA_Look.uasset",
+				"C:/Users/Oreac/Documents/Unreal Projects/Brassart_UE5/OnRevolutionneL-industrie/OnRevolutionneL-industrie/Content/Dossier-de-Moi/BluePrint/erge.uasset",
+				"C:/Users/Oreac/Documents/Unreal Projects/Brassart_UE5/OnRevolutionneL-industrie/OnRevolutionneL-industrie/Content/Dossier-de-Moi/BluePrint/BP_MyPlayerController.uasset",
+				"C:/Users/Oreac/Documents/Unreal Projects/Brassart_UE5/OnRevolutionneL-industrie/OnRevolutionneL-industrie/Content/Dossier-de-Moi/Input/IMC_FPSPlayer.uasset",
+				"C:/Users/Oreac/Documents/Unreal Projects/Brassart_UE5/OnRevolutionneL-industrie/OnRevolutionneL-industrie/Content/Dossier-de-Moi/Input/Forward.uasset",
+				"C:/Users/Oreac/Documents/Unreal Projects/Brassart_UE5/OnRevolutionneL-industrie/OnRevolutionneL-industrie/Content/Dossier-de-Moi/BluePrint/BP_FPS-Player-.uasset",
 				"C:/Users/Lucas/Documents/Unreal Projects/IndustrieenPLS/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
 			]
 		}
